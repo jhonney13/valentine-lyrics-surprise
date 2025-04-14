@@ -4,6 +4,10 @@ This project is a Python script that plays a song and displays synchronized lyri
 
 ---
 
+![Song Lyrics](./Song_Lyrics.jpg)
+
+---
+
 ## Requirements
 
 - **Python Version**: Python 3.7 or higher is required to run this script.

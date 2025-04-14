@@ -53,7 +53,7 @@ def play_music(music_file, start_pos=0.0):
     pygame.mixer.music.load(music_file)
     pygame.mixer.music.play(start=start_pos)
 
-music_file = "song/beabadoobee - Glue Song (Official Music Video).mp3"  # Replace with your music file path
+music_file = "beabadoobee - Glue Song (Official Music Video).mp3"  # Replace with your music file path
 
 # Set the start time to 01:25.25
 start_minutes = 0
